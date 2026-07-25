@@ -8,8 +8,8 @@ venv/
 env/
 
 # Local config and secrets
-config/*.json
-config/token.json
+#config/*.json
+#config/token.json
 *.json
 
 # IDE/editor settings
