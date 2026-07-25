@@ -6,9 +6,9 @@ def main():
     try:
         print("Loading events from Calendar...")
         event_txt = icscal_main()
-        aashrey = "whatsapp:+917901491803"
-        santosh = "whatsapp:+919966216488"
-        bhargav = "whatsapp:+918790760202"
+        aashrey = "whatsapp:+91790149180X"
+        santosh = "whatsapp:+91996621648X"
+        bhargav = "whatsapp:+91879076020X"
         to_number = santosh  # Replace with the recipient's WhatsApp number in the format 'whatsapp:+<country_code><number>'
         print("sending message to ", to_number)
         msg_id = send_msg(to_number, event_txt)
