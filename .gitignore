@@ -10,7 +10,7 @@ env/
 # Local config and secrets
 #config/*.json
 #config/token.json
-*.json
+#*.json
 
 # IDE/editor settings
 .vscode/
